@@ -1,6 +1,6 @@
 # 🎯 Surface Scanner - Bug Bounty Automation Tool
 
-An all-in-one reconnaissance and vulnerability scanning tool for bug bounty hunters.
+An all-in-one scanning tool for bug bounty hunters.
 
 ## 🚀 Features
 
