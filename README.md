@@ -49,7 +49,7 @@ gh auth login
 
 4. **Create domain list**
 ```bash
-echo "example.com" > domains.txt
+echo "example.com" > main-domains.txt
 ```
 
 5. **Run scan**
